@@ -5,5 +5,7 @@ Veréis que no es gran cosa, pues hasta hace 4 meses no había tocado nada de c�
 Poco a poco el repositorio irá creciendo con mis proyectos personales, que me servirán para ir afianzando conocimientos relacionados sobretodo con Machine Learning, Data Analysis y Data Engineering.
 
 Gracias por pasarte por aquí y tomarte un tiempo para leer esta presentación! 
-
+<br>
+<br>
+<br>
 (En constricción... 🚧)
